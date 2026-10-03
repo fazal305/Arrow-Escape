@@ -1,11 +1,13 @@
 # Arrow Escape
 
+### [▶ Play the live demo](https://fazal305.github.io/Arrow-Escape/)
+
 A browser puzzle game about untangling arrows. Each arrow is a bent, snake-like
 path on a grid. Tap one and it slides out the way its head points, with the
 body following the head. If anything is in its way, you lose a heart. Clear
 every arrow to finish the level. Lose all three hearts and you retry the level.
 
-**Live demo:** https://fazal305.github.io/Arrow-Escape/
+**Live demo:** [fazal305.github.io/Arrow-Escape](https://fazal305.github.io/Arrow-Escape/)
 
 ![Arrow Escape: the Apple level mid-game](docs/screenshot-apple.png)
 
