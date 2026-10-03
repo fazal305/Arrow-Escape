@@ -1,0 +1,43 @@
+:root {
+  color-scheme: dark;
+
+  --font-display: 'Bricolage Grotesque Variable', 'Trebuchet MS', sans-serif;
+  --font-body: 'Atkinson Hyperlegible', 'Segoe UI', system-ui, sans-serif;
+
+  --bg: #13101b;
+  --bg-glow: #2a1f3f;
+  --surface: #1d1828;
+  --surface-raised: #272036;
+  --border: #3a3150;
+  --text: #f5f1fb;
+  --text-muted: #b8afcb;
+  --dot: #4a4063;
+
+  --accent: #ffb547;
+  --accent-strong: #ffc76e;
+  --on-accent: #22160a;
+  --danger: #ff6474;
+  --success: #6fe3b4;
+  --heart: #ff5f78;
+  --focus: #ffffff;
+
+  --arrow-coral: #ff8f7e;
+  --arrow-mint: #6fe3b4;
+  --arrow-bark: #d6a777;
+  --arrow-amber: #ffc15e;
+  --arrow-sky: #82c8ff;
+  --arrow-lilac: #bea9ff;
+  --arrow-rose: #ff9fd0;
+
+  --radius-sm: 10px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --shadow-card: 0 24px 60px -24px rgb(0 0 0 / 0.65);
+}
