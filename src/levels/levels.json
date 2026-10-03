@@ -1,0 +1,346 @@
+[
+  {
+    "id": "first-steps",
+    "name": "First Steps",
+    "rows": [
+      "v>Rv",
+      ">>Rv",
+      "vUUR",
+      ">^^<"
+    ],
+    "regions": [
+      "ssss",
+      "ssss",
+      "ssss",
+      "ssss"
+    ],
+    "palette": {
+      "r": "coral",
+      "g": "mint",
+      "b": "bark",
+      "y": "amber",
+      "s": "sky",
+      "l": "lilac",
+      "p": "rose"
+    }
+  },
+  {
+    "id": "crossroads",
+    "name": "Crossroads",
+    "rows": [
+      "v>>RR",
+      "vU<v^",
+      ">U^L^",
+      "LUvL<",
+      "^^<>^"
+    ],
+    "regions": [
+      "sssss",
+      "sssss",
+      "sssss",
+      "sssss",
+      "sssss"
+    ],
+    "palette": {
+      "r": "coral",
+      "g": "mint",
+      "b": "bark",
+      "y": "amber",
+      "s": "sky",
+      "l": "lilac",
+      "p": "rose"
+    }
+  },
+  {
+    "id": "switchbacks",
+    "name": "Switchbacks",
+    "rows": [
+      "vv<v<<",
+      "v>R>Rv",
+      ">Uvv<<",
+      ">RvR>D",
+      "^v>>RR",
+      "^>>>>^"
+    ],
+    "regions": [
+      "llllll",
+      "llllll",
+      "llllll",
+      "llllll",
+      "llllll",
+      "llllll"
+    ],
+    "palette": {
+      "r": "coral",
+      "g": "mint",
+      "b": "bark",
+      "y": "amber",
+      "s": "sky",
+      "l": "lilac",
+      "p": "rose"
+    }
+  },
+  {
+    "id": "diamond",
+    "name": "Diamond",
+    "rows": [
+      "...L<...",
+      "..>U>v..",
+      ".UUU<<v.",
+      "v^^>Rvvv",
+      "LUU^D<vD",
+      ".^^vD<<.",
+      "..^<D<..",
+      "...D<..."
+    ],
+    "regions": [
+      "...ss...",
+      "..ssss..",
+      ".ssssss.",
+      "ssssssss",
+      "ssssssss",
+      ".ssssss.",
+      "..ssss..",
+      "...ss..."
+    ],
+    "palette": {
+      "r": "coral",
+      "g": "mint",
+      "b": "bark",
+      "y": "amber",
+      "s": "sky",
+      "l": "lilac",
+      "p": "rose"
+    }
+  },
+  {
+    "id": "heart",
+    "name": "Heart",
+    "rows": [
+      ".>>U..vv<.",
+      "v^vL<<<v^<",
+      "LL<LL<<R>v",
+      "U<U^L<>UvR",
+      ".^^LD<<<<.",
+      "..^^>RD<..",
+      "...^<RD...",
+      "....>^...."
+    ],
+    "regions": [
+      ".ppp..ppp.",
+      "pppppppppp",
+      "pppppppppp",
+      "pppppppppp",
+      ".pppppppp.",
+      "..pppppp..",
+      "...pppp...",
+      "....pp...."
+    ],
+    "palette": {
+      "r": "coral",
+      "g": "mint",
+      "b": "bark",
+      "y": "amber",
+      "s": "sky",
+      "l": "lilac",
+      "p": "rose"
+    }
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "rows": [
+      ".....v......",
+      ".....vv<<...",
+      ".....v>R>U..",
+      "..Lvv>DUU<..",
+      "..^vR..^<<..",
+      "..^vU..Rv^..",
+      "..^>^..^v^..",
+      "..v>D..^v^..",
+      "..v^...vDR..",
+      "..>^...>D^..",
+      "..L>R..>R^..",
+      "..^<<..^>^.."
+    ],
+    "regions": [
+      ".....b......",
+      ".....bggg...",
+      ".....bgggg..",
+      "..rrrbbrrr..",
+      "..rrr..rrr..",
+      "..rrr..rrr..",
+      "..rrr..rrr..",
+      "..rrr..rrr..",
+      "..rrr..rrr..",
+      "..rrr..rrr..",
+      "..rrr..rrr..",
+      "..rrr..rrr.."
+    ],
+    "palette": {
+      "r": "coral",
+      "g": "mint",
+      "b": "bark",
+      "y": "amber",
+      "s": "sky",
+      "l": "lilac",
+      "p": "rose"
+    }
+  },
+  {
+    "id": "mug",
+    "name": "Mug",
+    "rows": [
+      ".R..U..R...",
+      "..R..U..U..",
+      "vv>>U.v<...",
+      "v>>>>Uv^<R.",
+      ">>>>ULR..^<",
+      "L>vLU^v<.v^",
+      "^<L^^^D^D<.",
+      ">>>^>^v^...",
+      ".>>>DL<....",
+      "D<L<<L<<<.."
+    ],
+    "regions": [
+      ".s..s..s...",
+      "..s..s..s..",
+      "yyyyyyyy...",
+      "yyyyyyyyyy.",
+      "yyyyyyyy.yy",
+      "yyyyyyyy.yy",
+      "yyyyyyyyyy.",
+      "yyyyyyyy...",
+      ".yyyyyy....",
+      "bbbbbbbbb.."
+    ],
+    "palette": {
+      "r": "coral",
+      "g": "mint",
+      "b": "bark",
+      "y": "amber",
+      "s": "sky",
+      "l": "lilac",
+      "p": "rose"
+    }
+  },
+  {
+    "id": "table",
+    "name": "Table",
+    "rows": [
+      "..>>>v......",
+      "..v<Lv..>U..",
+      "..L>^L.U<<<.",
+      "v>>>U>RU<<<<",
+      ">vL>>^>U>Rv<",
+      ".L^......D<.",
+      ".>^......D<.",
+      ".^v......v^.",
+      ".LD......v^.",
+      ".^<......D^."
+    ],
+    "regions": [
+      "..llll......",
+      "..llll..gg..",
+      "..llll.gggg.",
+      "bbbbbbbbbbbb",
+      "bbbbbbbbbbbb",
+      ".bb......bb.",
+      ".bb......bb.",
+      ".bb......bb.",
+      ".bb......bb.",
+      ".bb......bb."
+    ],
+    "palette": {
+      "r": "coral",
+      "g": "mint",
+      "b": "bark",
+      "y": "amber",
+      "s": "sky",
+      "l": "lilac",
+      "p": "rose"
+    }
+  },
+  {
+    "id": "house",
+    "name": "House",
+    "rows": [
+      ".....vR.....",
+      "....v<^<..Uv",
+      "...v>>U^<.^D",
+      "..v>>>>>Uv>R",
+      "..v>v...vv..",
+      "..L.L..L<D..",
+      ".>DL<v<<>Rv.",
+      ".^v>RD.D<Rv.",
+      ".^v^<...^^D.",
+      ".^>D>DL<<<R.",
+      ".v<D<LLR>R^.",
+      ".>>D^^^^<<<."
+    ],
+    "regions": [
+      ".....rr.....",
+      "....rrrr..bb",
+      "...rrrrrr.bb",
+      "..rrrrrrrrbb",
+      "..rrr..rrr..",
+      "..rrr..rrr..",
+      ".yyyyyyyyyy.",
+      ".yyssyyssyy.",
+      ".yyssyyssyy.",
+      ".yyyyyyyyyy.",
+      ".yyyybbyyyy.",
+      ".yyyybbyyyy."
+    ],
+    "palette": {
+      "r": "coral",
+      "g": "mint",
+      "b": "bark",
+      "y": "amber",
+      "s": "sky",
+      "l": "lilac",
+      "p": "rose"
+    }
+  },
+  {
+    "id": "tree",
+    "name": "Tree",
+    "rows": [
+      "....v<v<....",
+      "..L<v^v^v<..",
+      ".Uv^v^RvRv<.",
+      "v^>U>>RRRR>U",
+      "v>>>>R>>^UU<",
+      ">v>>>>RvR^<<",
+      ".>>DL>RR^<<.",
+      "..D<^^<<<<..",
+      "....LD<<....",
+      "....^.L^....",
+      "....^>^^....",
+      "..>>^>D^D<.."
+    ],
+    "regions": [
+      "....gggg....",
+      "..gggggggg..",
+      ".gggggggggg.",
+      "gggggggggggg",
+      "gggggggggggg",
+      "gggggggggggg",
+      ".gggggggggg.",
+      "..gggggggg..",
+      "....bbbb....",
+      "....bbbb....",
+      "....bbbb....",
+      "..bbbbbbbb.."
+    ],
+    "palette": {
+      "r": "coral",
+      "g": "mint",
+      "b": "bark",
+      "y": "amber",
+      "s": "sky",
+      "l": "lilac",
+      "p": "rose"
+    }
+  }
+]

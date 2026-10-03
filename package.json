@@ -1,0 +1,28 @@
+{
+  "name": "arrow-escape",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Untangle snake-like arrows and slide them off the board without collisions.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "oxlint",
+    "test": "vitest run",
+    "levels": "node scripts/generate-levels.js"
+  },
+  "dependencies": {
+    "@fontsource-variable/bricolage-grotesque": "^5.3.0",
+    "@fontsource/atkinson-hyperlegible": "^5.3.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "oxlint": "^1.86.0",
+    "vite": "^8.3.2",
+    "vitest": "^5.0.3"
+  }
+}
