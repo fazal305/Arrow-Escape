@@ -38,5 +38,9 @@ of `src/game/engine.js`.
 - UI changes should keep keyboard play, visible focus and the
   `prefers-reduced-motion` behaviour working.
 
-By contributing you agree that your work is released under the MIT License and
-that you will follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+By contributing you agree to the Contributor License Agreement below and that
+you will follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## Contributor License Agreement
+
+This project is licensed under the PolyForm Noncommercial License 1.0.0, with paid commercial licenses available from the maintainer. Contributions are accepted only under the [Contributor License Agreement](CLA.md), which lets the maintainer relicense and sell them. Pull requests are merged only after you have agreed to it in the pull request template.

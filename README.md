@@ -129,4 +129,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and the
 
 ## License
 
-[MIT](LICENSE)
+Free for personal, educational, and noncommercial use under the [PolyForm Noncommercial License 1.0.0](LICENSE).
+
+Commercial use requires a paid commercial license. Contact fazalabbas2002@gmail.com.
+
+Versions up to and including `v1.0.0-mit` were released under the MIT License and remain available under MIT.

@@ -7,3 +7,7 @@
 - [ ] `npm run lint`, `npm test` and `npm run build` pass
 - [ ] Played the affected levels in a browser (note which browser and screen size)
 - [ ] Keyboard play and reduced-motion still work (for UI changes)
+
+## Contributor License Agreement
+
+- [ ] I have read `CLA.md` (in the repository root) and agree to its terms for this contribution.

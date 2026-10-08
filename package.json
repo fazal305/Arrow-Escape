@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Untangle snake-like arrows and slide them off the board without collisions.",
   "type": "module",
-  "license": "MIT",
+  "license": "PolyForm-Noncommercial-1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
